@@ -1,6 +1,6 @@
 Apresento o meu primeiro projeto, criado durante o curso técnico de Desenvolvimento de sistemas no primeiro semestre de 2021, como parte do currículo da disciplina de Programação Web (PWEB). Este projeto marca não apenas o início da minha jornada no desenvolvimento de sistemas, mas também representa o aprendizado e a aplicação prática de conceitos fundamentais na criação de aplicações web.
 
-O Site apresenta informações resumidas sobre a trama de cada um dos desenhos escolhidos:
+O Site apresenta informações resumidas sobre a trama de cada um dos desenhos que estão presentes nele:
 
 ![image](https://github.com/liviaportela/Desenhos-Animados-V1/assets/115835353/3029f07c-dff8-4ef8-b5d3-e1ad42cddebe)
 ![image](https://github.com/liviaportela/Desenhos-Animados-V1/assets/115835353/4c281001-6da7-4a90-86cf-29825aaeb25f)
