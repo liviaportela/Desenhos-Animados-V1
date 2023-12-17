@@ -1,0 +1,94 @@
+﻿BODY {
+   color: #545454;
+   background-image: url("Background_certo.jpg");
+   width: 1280;
+   height: 1280;
+   background-attachment: fixed;
+}
+
+H1 {
+   font-family: 'Bahnschrift Condensed';
+   font-size: 30pt;
+   color: #000080;
+   text-align: center;
+   margin: 40px 41px 15px 41px;
+}
+
+P {
+   font-family: 'Bahnschrift Light';
+   font-size: 15pt;
+   text-align: center;
+   color: 000000;
+   margin: 25px 41px 25px 41px;
+}
+
+DT {
+   font-family: 'Bahnschrift SemiCondensed';
+   font-size: 20pt;
+   text-align: center;
+   color: 000000;
+   margin: 25px 41px 25px 41px;
+}
+
+DD {
+   font-family: 'Bahnschrift Light';
+   font-size: 15pt;
+   text-indent: 25px;
+   text-align: justify;
+   color: 000000;
+   margin: 25px 41px 25px 41px;
+}
+
+.ScoobyDoo {
+   background-image: url('ScoobyDoo.png');
+}
+
+.BobEsponja {
+   background-image: url('BobEsponja.jpg');
+}
+
+.PicaPau {
+   background-image: url('PicaPau.jpg');
+}
+
+.GravityFalls {
+   background-image: url('GravityFalls.png');
+}
+
+.HoraDeAventura {
+   background-image: url('HoraDeAventura.png');
+}
+
+.PanteraCorDeRosa {
+   background-image: url('PanteraCorDeRosa.jpg');
+}
+
+.ApenasUmShow {
+   background-image: url('ApenasUmShow.jpg');
+}
+
+.TomEJerry {
+   background-image: url('TomEJerry.png');
+}
+
+.LooneyTunes {
+   background-image: url('LooneyTunes.jpg');
+}
+
+.PadrinhosMagicos {
+   background-image: url('PadrinhosMagicos.jpg');
+}
+
+#imagens{
+   margin: auto;
+   width: 443px;
+   height: 249px;
+}
+
+#caixa-branca {
+   width: 1100px;
+   background-color: #ffffff;
+   margin: -30px auto -30px auto;
+   box-shadow: 0px 0px 10px rgba(0, 0, 0, .5);
+   padding: 10px;
+}
