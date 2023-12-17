@@ -14,7 +14,7 @@ O Site apresenta informações resumidas sobre a trama de cada um dos desenhos q
 
 #
 <div align="left"> 
-  <strong>📱 Telas do App:</strong>
+  <strong>📱 Telas do Site:</strong>
 </div>
 </br>
 <div align="left">  
